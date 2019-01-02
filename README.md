@@ -1,3 +1,3 @@
-#robofriends
+robofriends
 
-wretched-boot.surge.sh
+http://wretched-boot.surge.sh/
